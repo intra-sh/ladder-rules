@@ -19,3 +19,4 @@
   tests:
     - url: https://www.nytimes.com/2023/11/24/business/retail-workers-black-friday-shopping.html
       test: document.querySelector('div[data-testid="inline-message"]') === null
+ 
